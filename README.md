@@ -1,6 +1,7 @@
 # SNBOX
 A simple-to-use VPN tool
 SNBOX 是一款 Windows 桌面网络连接工具，支持线路管理、订阅导入、连接状态查看、网站测试、日志查看等功能。
+
 支持协议有：Vless,Vmess,Shadowsocks,Trajon,Hysteria2,Socks等
 
 <img width="1000" height="789" alt="image" src="https://github.com/user-attachments/assets/82712110-5bc8-493e-86b0-e003ae4c7ee4" />
