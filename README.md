@@ -1,72 +1,78 @@
 # SNBOX
-A simple-to-use VPN tool
-SNBOX 是一款 Windows 桌面网络连接工具，支持线路管理、订阅导入、连接状态查看、网站测试、日志查看等功能。
+A simple-to-use VPN tool.
 
-支持协议有：Vless,Vmess,Shadowsocks,Trajon,Hysteria2,Socks等
-支持节点配置编辑
+SNBOX A Windows desktop network connection tool that supports line management, subscription import, connection status monitoring, website testing, and log viewing.
+
+The versions for other platforms are currently under update and will be available soon.
+
+Supported protocols include: Vless, Vmess, Shadowsocks, Trajon, Hysteria2, Socks, etc.
+
+Support node configuration editing
 
 <img width="1001" height="789" alt="image" src="https://github.com/user-attachments/assets/ead19789-0d45-44ef-af6f-feff0a8205b1" />
 
-## 版本
+## Version
 
-最新版本：1.2.5
+Latest version1.2.5
 
-## 下载
+## Download
 
-请前往 Releases 页面下载最新版安装包：
-
-
-[下载 SNBOX_Windows_x64](https://github.com/unixsun/SNBOX/releases)
+Please go to the Releases page to download the latest version installation package:
 
 
+[Download SNBOX_Windows_x64](https://github.com/unixsun/SNBOX/releases)
 
-## 功能
+## Language
+中文，English（The Russian and Iranian languages are coming.）
 
-- 线路导入和管理
-- 订阅链接导入
-- 一键连接 / 断开连接
-- 实时上传、下载速度显示
-- 网站连通性测试
-- 应用日志和内核日志查看
-- 系统代理清理
-- 托盘菜单操作
 
-## 安装
+## Function
 
-1. 下载 `SNBOX_x.x.x_x64-setup.exe`
-2. 双击安装
-3. 安装完成后启动 SNBOX
+- Node import and management
+- Subscription link import
+- One-click connect / disconnect
+- Real-time upload and download speed display
+- Website connectivity test
+- View application logs and core logs
+- System proxy cleanup
+- Tray menu operations
 
-## 使用说明
+## Installation
 
-### 导入订阅
+1. Download `SNBOX_x.x.x_x64-setup.exe`
+2. Double-click to install
+3. Launch SNBOX after the installation is complete
 
-进入“订阅”页面，输入订阅链接，点击“导入”。
+## Instructions for Use
 
-### 导入线路
+### Import Subscription
 
-进入“线路”页面，输入线路链接，点击“导入”。
+Go to the "Subscription" page, enter the subscription link, and click "Import".
 
-### 连接线路
+### Import Node
 
-在首页或线路页面选择线路，点击“一键连接”。
+Go to the "Node" page, enter the node link, and click "Import".
 
-### 断开连接
+### Connect to Node
 
-连接成功后，点击“断开连接”。
+Select a node on the home page or the node page, and click "One-Click Connect".
 
-## 日志
+### Disconnect
 
-进入“更多 -> 日志”查看应用日志和内核日志。
+After a successful connection, click "Disconnect".
 
-## 数据存储
+## Logs
 
-应用数据默认存储在应用目录下的 `data` 文件夹。
+Go to "More -> Logs" to view application logs and core logs.
 
-## 系统要求
+## Data Storage
 
-- Windows 10 或更高版本
-- 64 位系统
+Application data is stored by default in the `data` folder under the application directory.
+
+## System Requirements
+
+- Windows 10 or higher
+- 64-bit system
 
 
 ## 反馈
