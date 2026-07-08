@@ -78,3 +78,4 @@ Application data is stored by default in the `data` folder under the application
 ## 反馈
 
 如遇到问题，请在 GitHub Issues 中反馈。
+If you encounter any problems, please report them in the GitHub Issues section.
