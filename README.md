@@ -13,7 +13,7 @@ Support node configuration editing
 
 ## Version
 
-Latest version1.2.5
+Latest version1.2.10
 
 ## Download
 
