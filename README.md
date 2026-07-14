@@ -75,8 +75,15 @@ Application data is stored by default in the `data` folder under the application
 - 64-bit system
 
 
-## 反馈
+## Feedback/反馈
 
 如遇到问题，请在 GitHub Issues 中反馈。
 
 If you have any problems, please report them in the GitHub Issues section.
+
+## Channel/频道
+
+Telegram Channel / 频道：
+https://telegram.me/snbox_unixsun
+
+
