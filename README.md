@@ -11,10 +11,6 @@ Support node configuration editing
 
 <img width="1001" height="789" alt="image" src="https://github.com/user-attachments/assets/ead19789-0d45-44ef-af6f-feff0a8205b1" />
 
-## Version
-
-Latest version1.2.16
-
 ## Download
 
 Please go to the Releases page to download the latest version installation package:
