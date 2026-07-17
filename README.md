@@ -2,6 +2,7 @@
 A simple-to-use VPN tool.
 
 SNBOX A Windows desktop network connection tool that supports line management, subscription import, connection status monitoring, website testing, and log viewing.
+Built on the sing-box core.
 
 The versions for other platforms are currently under update and will be available soon.
 
@@ -44,7 +45,7 @@ Windows:
 2. Double-click to install
 3. Launch SNBOX after the installation is complete
 
-## Instructions for Use
+## Instructions
 
 ### Import Subscription
 
