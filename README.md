@@ -19,8 +19,13 @@ Latest version1.2.16
 
 Please go to the Releases page to download the latest version installation package:
 
-
+Windows:
 [Download SNBOX_Windows_x64](https://github.com/unixsun/SNBOX/releases)
+
+ Android:
+[Download Android arm64-v8a APK](https://github.com/unixsun/SNBOXApp/releases/latest)
+
+
 
 ## Language
 中文，English（The Russian and Iranian languages are coming.）
